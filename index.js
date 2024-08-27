@@ -27,7 +27,8 @@ window.onload = function() {
     createTitle() {
       const titleContainer = this.createElement('div', { id: 'title_container' });
       const titleInnerContainer = this.createElement('div', { id: 'title_inner_container' });
-      const title = this.createElement('h1', { id: 'title', textContent: 'MemeChat 2.0' });
+      const title = this.createElement('h1', { id: 'title', textContent: '9 3 8' });
+      
       
       titleInnerContainer.append(title);
       titleContainer.append(titleInnerContainer);
